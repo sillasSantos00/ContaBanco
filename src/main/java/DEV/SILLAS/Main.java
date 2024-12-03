@@ -69,7 +69,7 @@ public class Main{
         Conta conta = new Conta(pessoa);
 
         contasBancarias.add(conta);
-        System.out.println("sua conta doi criada com sucesso");
+        System.out.println("sua conta foi criada com sucesso");
 
         operacoes();
     }
